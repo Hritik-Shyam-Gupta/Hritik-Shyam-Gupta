@@ -33,9 +33,9 @@ I'm an enthusiastic and ambitious person for my goals and pusposes and I’m pas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Hritiksg?fbclid=IwAR1VhDgYnTni4GJscgV3GKf2J93iwS0hoH43TuwN2a_ffh3YYXuiwpQFQOI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbcse50" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hritik-shyam-gupta-228984200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbcse" height="30" width="40" /></a>
-<a href="https://instagram.com/hritik_s_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbcse50" height="30" width="40" /></a>
+<a href="https://twitter.com/Hritiksg?fbclid=IwAR1VhDgYnTni4GJscgV3GKf2J93iwS0hoH43TuwN2a_ffh3YYXuiwpQFQOI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbcse50" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hritik-shyam-gupta-228984200/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbcse" height="30" width="40" /></a>
+<a href="https://instagram.com/hritik_s_05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbcse50" height="30" width="40" /></a>
 <a href="mailto:hritikshyamgupta@gmail.com">
  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
